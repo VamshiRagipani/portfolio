@@ -3,7 +3,7 @@ title: "Software Engineer"
 description: "Broadridge (Hyderabad)"
 dateString: Sep 2022 - Ongoing
 draft: false
-tags: ["C#", "Linux", "SQL", "Jenkins", "API", "AWS", ".net"]
+tags: ["c-sharp", "Linux", "SQL", "Jenkins", "API", "AWS", ".net"]
 showToc: false
 weight: 301
 --- 
