@@ -1,0 +1,101 @@
+baseURL: "https://arkalim.org"
+languageCode: en-us
+title: Vamshi Ragipani
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Vamshi Ragipani"
+    subtitle: Hi 👋! I’m Vamshi, a Software Developer at [**Broadridge**](https://www.broadridge.com/) As a CSE fresher, I possess strong programming skills in C, C++, and Java, along with proficiency in data structures and algorithms. I’m a quick learner and eager to explore new technologies. I’ve worked on various projects, including an e-commerce website and a Java-based mobile application. My problem-solving abilities and teamwork make me a valuable asset to any organisation. Excited to contribute to the tech industry’s growth and success.
+    imageUrl: "home/Vamshi.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "vamshirajragipani@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/VamshiRagipani"
+    - name: "github"
+      url: "https://github.com/VamshiRagipani"
+    - name: "youtube"
+      url: "https://www.youtube.com/VamshiRagipani"
+    - name: "cv"
+      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
