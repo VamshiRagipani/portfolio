@@ -18,6 +18,6 @@ weight: 301
 - Performed a comprehensive revamp of the backend codebase, improving readability, fixing bugs, and enhancing performance by identifying and resolving bottlenecks.
 - Actively engaged with potential customers as the lead developer, providing technical guidance and support to drive customer success which increased product adoption by over 20%.
 - Led and mentored a team of 3 junior interns in successfully designing, developing, and seamlessly integrating a sophisticated AI pipeline with the product.
-- Building a cloud-native version of the product on Kubernetes with GitOps principles, to facilitate easy deployment and management of multiple instances of the product on the cloud.
+- Building a cloud-native version of the product on Kubernetes with GitOps principles, to facilitate easy deployment and management of multiple instances of the product on the cloud. -->
 
-![](/experience/16bit/img1.jpeg#center) -->
+![Image](/experience/BR/BR.jpg)
