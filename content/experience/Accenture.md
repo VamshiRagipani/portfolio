@@ -1,7 +1,7 @@
 ---
 title: "Developer and Technology Intern"
-description: "Accenture · Internship (Hyderabad)"
-dateString: "May 2023 - Oct 2023 · 6 mos"
+description: "Accenture · Internship (India)"
+dateString: "May 2023 - Oct 2023 · 6 mons"
 draft: false
 tags: ["Developer and Technology", "Code Debugging", "Agile Project Management", "SDLC", "Algorithmic Thinking", "Software Development Methodologies", "Python"]
 showToc: false

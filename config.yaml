@@ -13,6 +13,10 @@ menu:
       name: Blog
       url: /blog
       weight: 20
+    - identifier: arts
+      name: Arts
+      url: /arts
+      weight: 20
     - identifier: projects
       name: Projects
       url: /projects

@@ -6,6 +6,8 @@ draft: false
 tags: ["c-sharp", "Linux", "SQL", "Jenkins", "API", "AWS", ".net"]
 showToc: false
 weight: 301
+# cover:
+#     image: "experience/BR/BR.jpg"
 --- 
 <!-- 
 ### Description
