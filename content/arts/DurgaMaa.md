@@ -7,7 +7,7 @@ I extend my heartfelt thanks to each person who took a moment to engage with my 
 I hope this artwork resonates with you and meets your expectations. 🌈🤗"
 dateString: August 2020
 draft: false
-tags: ["Durga Maa", "Mahashivaratri", "Hinduism", "Art"]
+tags: ["Durga Maa", "Hinduism", "Art"]
 weight: 105
 cover:
     image: "arts/DurgaMaa.jpg"
