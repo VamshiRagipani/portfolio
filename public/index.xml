@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vamshi Ragipani</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Vamshi Ragipani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Durga Maa - जय दुर्गा माँ🙏🌼</title>
+      <link>http://localhost:1313/arts/durgamaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arts/durgamaa/</guid>
+      <description> This artwork holds special meaning for me as I embraced a unique and unfamiliar theme – crafting a depiction of Maa Durga. 🎨 With immense gratitude to my followers who offered suggestions and supported me throughout, I present this portrayal of the divine goddess. 🌟
+I extend my heartfelt thanks to each person who took a moment to engage with my journey, liking and sharing their thoughts. Your unwavering support means the world to me! 🙏✨
+I hope this artwork resonates with you and meets your expectations. 🌈🤗</description>
+    </item>
+    
+    <item>
+      <title>Lord Shiva</title>
+      <link>http://localhost:1313/arts/lordshiva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arts/lordshiva/</guid>
+      <description>After dedicating 3 hours to this artwork, while fasting without water since morning, I&amp;#39;m thrilled to share my latest creation! Feeling a rush of joy and excitement... 🔥
+Every stroke in my paintings feels like a step forward. 🎨
+Wishing you a Happy Mahashivaratri! May Lord Shiva shower you with happiness and blessings. 🔱✨
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning - Visualized</title>
+      <link>http://localhost:1313/blog/machine-learning-visualized/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/machine-learning-visualized/</guid>
+      <description>A visual approach to understand machine learning</description>
+    </item>
+    
+    <item>
+      <title>Ranbir Kapoor</title>
+      <link>http://localhost:1313/arts/ranbirkapoor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arts/ranbirkapoor/</guid>
+      <description>A visual approach to understand machine learning</description>
+    </item>
+    
+    <item>
+      <title>Fake-News-Detection</title>
+      <link>http://localhost:1313/projects/fake-news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/fake-news/</guid>
+      <description>Our Fake News Detection Project uses machine learning, NLP, and Python to combat fake news, providing users with credibility assessments and promoting media literacy. It&amp;#39;s a powerful tool in the fight against misinformation</description>
+    </item>
+    
+    <item>
+      <title>Todo List App</title>
+      <link>http://localhost:1313/projects/todo-list-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/todo-list-app/</guid>
+      <description>A Todo list web application built using React</description>
+    </item>
+    
+    <item>
+      <title>Developer and Technology Intern</title>
+      <link>http://localhost:1313/experience/accenture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/accenture/</guid>
+      <description>Accenture · Internship (India)</description>
+    </item>
+    
+    <item>
+      <title>Software Engineer</title>
+      <link>http://localhost:1313/experience/broadridge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/broadridge/</guid>
+      <description>Broadridge (Hyderabad)</description>
+    </item>
+    
+    <item>
+      <title>Bachelor of Technology - B.Tech, Computer Science</title>
+      <link>http://localhost:1313/experience/jntuh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/jntuh/</guid>
+      <description>JNTUH College of Engineering Hyderabad</description>
+    </item>
+    
+    
+  </channel>
+</rss>
