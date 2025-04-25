@@ -22,3 +22,5 @@ Our **Fake News Detection Project** leverages the power of **machine learning** 
 ![](/projects/FND/review.jpg)
 
 ### 🔗 [GitHub](https://github.com/VamshiRagipani/Fake-News-Recognition-)
+
+### 🔗 [WebSite - Link](https://fake-news-detection-using-nlp.onrender.com/)
