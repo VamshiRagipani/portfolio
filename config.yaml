@@ -54,7 +54,7 @@ params:
     enabled: true
     title: "Vamshi Ragipani"
     subtitle: I'm a Software Engineer at [**Broadridge**](https://www.broadridge.com/), passionate about tech. I hold a degree in computer engineering and internship experience at  [**Accenture**](https://www.accenture.com/in-en), Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (Java, C#), Web Development (NodeJs, MySQL, Angular), Linux OS (with Go) & Machine Learning (Python). And what I might lack in skills I make up for with my determination to learn. Beyond coding, I'm an artist and an actor, always up for new challenges.
-    imageUrl: "home/Vamshi.jpg"
+    imageUrl: "home/Vamshi2.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
