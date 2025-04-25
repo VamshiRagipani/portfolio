@@ -5,7 +5,7 @@ dateString: Jul 2018 - Aug 2022
 draft: false
 tags: []
 showToc: false
-weight: 305
+weight: 400
 --- 
 ### 🔗 [Sreedattha](https://www.sreedattha.ac.in/)
 

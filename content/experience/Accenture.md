@@ -5,7 +5,7 @@ dateString: "May 2023 - Oct 2023 · 6 mons"
 draft: false
 tags: ["Developer and Technology", "Code Debugging", "Agile Project Management", "SDLC", "Algorithmic Thinking", "Software Development Methodologies", "Python"]
 showToc: false
-weight: 301
+weight: 300
 --- 
 
 Description

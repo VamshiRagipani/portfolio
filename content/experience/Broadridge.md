@@ -5,7 +5,7 @@ dateString: Sep 2022 - Ongoing
 draft: false
 tags: ["c-sharp", "Linux", "SQL", "Jenkins", "API", "AWS", ".net"]
 showToc: false
-weight: 301
+weight: 200
 # cover:
 #     image: "experience/BR/BR.jpg"
 --- 
