@@ -6,7 +6,7 @@ draft: false
 tags: ["AWS", "Cloud", "DevOps", "Infrastructure"]
 weight: 110
 cover:
-    image: "https://unsplash.com/photos/1K9T5YiZ2WU"
+  image: "blog/aws/cover.png"
     # caption: "Photo by Taylor Vick on Unsplash"
 ---
 
